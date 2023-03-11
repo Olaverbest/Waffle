@@ -1,3 +1,6 @@
 [submodule "Waffle/vendor/spdlog"]
 	path = Waffle/vendor/spdlog
 	url = https://github.com/gabime/spdlog
+[submodule "Waffle/vendor/GLFW"]
+	path = Waffle/vendor/GLFW
+	url = https://github.com/Olaverbest/glfw
