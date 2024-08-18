@@ -4,3 +4,6 @@
 [submodule "Waffle/vendor/GLFW"]
 	path = Waffle/vendor/GLFW
 	url = https://github.com/Olaverbest/glfw
+[submodule "Waffle/vendor/imgui"]
+	path = Waffle/vendor/imgui
+	url = https://github.com/ocornut/imgui.git
