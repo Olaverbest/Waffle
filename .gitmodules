@@ -13,3 +13,6 @@
 [submodule "Waffle/vendor/yaml-cpp"]
 	path = Waffle/vendor/yaml-cpp
 	url = https://github.com/Olaverbest/yaml-cpp
+[submodule "Waffle/vendor/ImGuizmo"]
+	path = Waffle/vendor/ImGuizmo
+	url = https://github.com/Olaverbest/ImGuizmo
