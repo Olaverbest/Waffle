@@ -18,3 +18,6 @@
 [submodule "Waffle/vendor/spdlog"]
 	path = Waffle/vendor/spdlog
 	url = https://github.com/gabime/spdlog
+[submodule "Waffle/vendor/Box2D"]
+	path = Waffle/vendor/Box2D
+	url = https://github.com/Olaverbest/Box2D
