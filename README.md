@@ -27,7 +27,6 @@ To get started with Waffle, follow these steps:
 
 Waffle is hosted on GitHub, where you can find the source code and track the project's progress. Additionally, I am working on a YouTube channel that may focus on Waffle engine-related content in the future. Join the community to share your thoughts and ideas!
 
-- [GitHub Repository](github.com/Olaverbest/Waffle)
 - [YouTube Channel](#) (coming soon)
 
 ## Contributing
