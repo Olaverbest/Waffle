@@ -35,7 +35,7 @@ At this stage, we are not accepting contributions. However, we appreciate your i
 
 ## License
 
-Waffle is licensed under the [Apache 2.0 License](#). See the LICENSE file for more information.
+Waffle is licensed under the [Apache 2.0 License](https://github.com/Olaverbest/Waffle?tab=Apache-2.0-1-ov-file). See the LICENSE file for more information.
 
 ## Contact
 
